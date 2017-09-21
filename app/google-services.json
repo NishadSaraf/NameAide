@@ -1,0 +1,61 @@
+{
+  "project_info": {
+    "project_number": "813292689688",
+    "firebase_url": "https://fir-queue-f6ccc.firebaseio.com",
+    "project_id": "fir-queue-f6ccc",
+    "storage_bucket": "fir-queue-f6ccc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813292689688:android:b9e837248bdd1e96",
+        "android_client_info": {
+          "package_name": "edu.pdx.nishad.nameaidedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813292689688-duotu9dd1qk5129od8brd6c1r4taestu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.pdx.nishad.nameaidedemo",
+            "certificate_hash": "25d581050befb0c929f98b6e723e104c4ccb05a7"
+          }
+        },
+        {
+          "client_id": "813292689688-e77lsu8raaqk272pdv984e44tpigf05k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGmxd_iwsw3u-JiwkQL8qiBPHvaAscIRQ"
+        },
+        {
+          "current_key": "AIzaSyDaSiE8Hmv5u9C-Gj4i2Ob9sB7yocVqEUs"
+        },
+        {
+          "current_key": "AIzaSyCVfZCNXjdqEs6bzXJCluFSklBwu8tPmRw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813292689688-e77lsu8raaqk272pdv984e44tpigf05k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
